@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>X</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-5935 -4229)">
+<g id="X">
+<g id="Ellipse 2">
+<use xlink:href="#path0_fill" transform="translate(5935 4229)" fill="#C445FF"/>
+</g>
+<g id="Union">
+<use xlink:href="#path1_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 5951 4235)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 32 16C 32 24.8366 24.8366 32 16 32C 7.16344 32 0 24.8366 0 16C 0 7.16344 7.16344 0 16 0C 24.8366 0 32 7.16344 32 16Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 5.76893 8.6534L 5.76893 14.4223L 8.6534 14.4223L 8.6534 8.6534L 14.4223 8.6534L 14.4223 5.76893L 8.6534 5.76893L 8.6534 0L 5.76893 0L 5.76893 5.76893L 0 5.76893L 0 8.6534L 5.76893 8.6534Z"/>
+</defs>
+</svg>
